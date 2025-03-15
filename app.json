@@ -1,0 +1,25 @@
+{
+  "name": "AutoSaveMediaUser",
+  "description": "Telegram script that automatically saves media received from private chats to your saved messages"
+  "repository": "https://github.com/STKR2/AutoSaveMediaUser",
+  "keywords": ["telegram", "pyrogram", "media", "auto-save"],
+  "env": {
+    "API_ID": {
+      "description": "Your Telegram API ID",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Your Telegram API Hash",
+      "required": true
+    },
+    "SESSION_STRING": {
+      "description": "Your Pyrogram Session String",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}

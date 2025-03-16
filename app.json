@@ -1,8 +1,8 @@
 {
   "name": "AutoSaveMediaUser",
-  "description": "Telegram script that automatically saves media received from private chats to your saved messages"
+  "description": "A Telegram script that automatically saves self-destructing photos and videos from private chats to Saved Messages.",
   "repository": "https://github.com/STKR2/AutoSaveMediaUser",
-  "keywords": ["telegram", "pyrogram", "media", "auto-save"],
+  "keywords": ["telegram", "pyrogram", "media", "auto-save", "self-destruct"],
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",

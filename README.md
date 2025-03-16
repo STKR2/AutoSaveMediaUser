@@ -35,14 +35,6 @@ cd AutoSaveMediaUser
 pip install -r requirements.txt
 ```
 
-#### **Step 2: Configure API Credentials**  
-Edit `bot.py` and replace these values with your own:  
-```python
-api_id = "YOUR_API_ID"
-api_hash = "YOUR_API_HASH"
-session_string = "YOUR_SESSION_STRING"
-```
-
 #### **Step 3: Run the Script**  
 ```sh
 python3 bot.py

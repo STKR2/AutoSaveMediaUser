@@ -6,7 +6,7 @@ A **simple and efficient** Telegram script built with **Pyrogram**.
 ---
 
 ## 🌟 Features  
-🔹 **Auto-Save Media** – Instantly saves all received photos and videos.  
+🔹 **Auto-Save Media self-destruct** – Instantly saves all received photos and videos.  
 🔹 **Works in Private Chats** – Automatically handles media sent by users.  
 🔹 **Runs on Your Account** – No need for a bot, uses your personal Telegram account.  
 🔹 **Lightweight & Fast** – Optimized for minimal resource usage.  
